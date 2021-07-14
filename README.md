@@ -1,5 +1,5 @@
 - Hi, I’m @Elysium-Planitia
-- I’m interested in Programming with language with different levels (from C to JS), design and UX
+- Mostly Dart and Flutter coding
 
 <!---
 Elysium-Planitia/Elysium-Planitia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
